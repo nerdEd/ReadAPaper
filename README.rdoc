@@ -1,0 +1,7 @@
+= ReadAPaper
+
+UNFINISHED Chrome extension to make instapaper "Text Only" links use arc90's Readability instead
+
+== Copyright
+
+Copyright (c) 2010 Ed Schmalzle. See LICENSE for details.
